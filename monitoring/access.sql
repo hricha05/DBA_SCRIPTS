@@ -1,10 +1,5 @@
--- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/access.sql
--- Author       : Tim Hall
 -- Description  : Lists all objects being accessed in the schema.
--- Call Syntax  : @access (schema-name or all) (object-name or all)
 -- Requirements : Access to the v$views.
--- Last Modified: 15/07/2000
 -- -----------------------------------------------------------------------------------
 SET LINESIZE 255
 SET VERIFY OFF

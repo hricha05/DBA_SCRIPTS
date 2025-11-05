@@ -1,10 +1,5 @@
--- -----------------------------------------------------------------------------------
--- File Name    : https://oracle-base.com/dba/monitoring/table_growth.sql
--- Author       : Tim Hall
 -- Description  : Displays information on all active database sessions.
 -- Requirements : Access to the DBA_HIST views. Diagnostics and Tuning license.
--- Call Syntax  : @table_growth (schema-name) (table_name)
--- Last Modified: 03-DEC-2019
 -- -----------------------------------------------------------------------------------
 COLUMN object_name FORMAT A30
  
